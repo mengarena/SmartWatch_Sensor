@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GetSensorsActivity!</string>
+    <string name="app_name">Activity</string>
+    <string name="enableSensor">Enable</string>
+    <string name="sensorcaption">Sensor</string>
+    <string name="delaymodecaption">Frequency</string>
+    <string name="orient">Orientation</string>
+    <string name="gyro">Gyroscope</string>
+    <string name="accl">Accelerometer</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="game">50Hz</string>
+    <string name="ui">16Hz</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="activitydata_folder">ActivityData</string>
+    <string name="fileinterval">Duration: </string>
+    <string name="defaultinfo">Press the button to record data!</string>
+    <string name="no_sensorWiFiGPS">No sensor is installed/enabled in this phone!</string>
+    <string name="promptselect">No Sensor/Audio/Video is selected. Please select!</string>
+    <string name="myalarm">MY_ALARM</string>
+</resources>
